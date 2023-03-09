@@ -1,3 +1,5 @@
 print("Mark Gilbert Reginio")
 print("Matuyatuya, Torrijos, Marinduque")
 print("December 18. 2001")
+print("Bachelor of Science in Information Technology")
+print("Second year College")
